@@ -1,0 +1,6 @@
+About Data Set
+Business Automotive
+
+It has 8069 Train Data Points for Automotive Customer Segmentation and 2628 Test data points with Customer Segmentation which can be revalidated or provided a fresh with multiple Machine learning models.
+
+Source Kaggle.com
