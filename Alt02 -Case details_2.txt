@@ -1,0 +1,10 @@
+About the Data
+A Retail store must analyze the day-to-day transactions and track its customers spread across various locations along with their purchases/returns across various categories.
+
+This book has three sheets (Customer, Transaction and Product Hierarchy):
+
+Customer: Customer information, including demographics
+Transaction: Transaction of customers
+Product Hierarchy: Product information
+
+Source Kaggle.com
